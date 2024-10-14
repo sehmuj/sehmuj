@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @sehmuj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Number Row Characters
 
-<!---
-sehmuj/sehmuj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1. ! Exclaimation mark
+- 
+2. @ Atsymbol
+- 
+3. /# Number sign
+- 
+4. $ Dollar sign
+- 
+5. % Percentage sign
+- 
+6. ^ Caret symbol
+- 
+7. & Ampersand
+- 
+8. * Asterisk symbol
+-
+9. ( Parenthesis
+
+10.  ) Parenthesis
+
+# Links
+
+- [GitHub Pages](https://pages.github.com/) :open_mouth:
+
+- [w3schools HTML](https://www.w3schools.com/html/) :sweat_smile:
+
+- [geeksforgeeks HTML](https://www.geeksforgeeks.org/html-tutorial/) :smiley:
