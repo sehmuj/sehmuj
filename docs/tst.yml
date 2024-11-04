@@ -1,0 +1,29 @@
+---
+- name: LeBron James
+- sports: Basketball
+  team:
+    name: Lakers
+    city: Toronto
+    position: forword
+    age: 38
+- name: Lionel Messi
+- sports: Soccer
+  team:
+    name: Inter Miami
+    city: Miami
+    position: forword
+    age: 36
+- name: Serena Williams
+- sports: Tennis
+  team:
+    name: N/A
+    city: N/A
+    position: player
+    age: 41
+- name: Tom Brady
+- sports: Football
+  team:
+    name: Buccaneers
+    city: Tampa Bay
+    position: Quarterback
+    age: 46
