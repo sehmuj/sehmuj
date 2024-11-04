@@ -1,4 +1,5 @@
 # Number Row Characters
+[CLI commads](config/config.md)
 
 1. ! Exclaimation mark
 - 
